@@ -43,7 +43,7 @@
 import tkinter
 top=tkinter . Tk()
 
-lable = tkinter.Label(top,text='Kuga',width=90,height=5,bg="red",font=("Arial",12))
+lable = tkinter.Label(top,text='Kuga',width=90,height=5,bg="red",font=("Arial",12))#ed
 lable .pack()
 
 lable = tkinter.Label(top,text='Agito',width=90,height=5,bg="orange",font=("Arial",12))
